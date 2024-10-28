@@ -40,7 +40,7 @@ const image = "CV photo.png";
 // const hobbyString =
 
 const fullNameString = `My name is ${fullName}`;
-const yearOfBirthString = 33
+const yearOfBirthString = `I am ${2024 - yearOfBirth}`;
 const hobbyString = `My hobby is playing ${hobby}`
 
 
